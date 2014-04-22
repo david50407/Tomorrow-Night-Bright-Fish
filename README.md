@@ -6,4 +6,4 @@ Tomorrow Night Bright theme for Fish shell
 Install
 --------------------------
 
-``` ln -s Tomorrow-Night-Bright.fish ~/.config/fish/ ```
+``` cd ~/.config/fish && ln -s /path/to/this/repo/Tomorrow-Night-Bright.fish ```
